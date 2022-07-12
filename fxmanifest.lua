@@ -8,7 +8,7 @@ description "Free and stunning proximity prompt made by Zerio from store.zerio-s
 
 escrow_ignore {"*.lua"}
 
-client_scripts {"config.lua", '@PolyZone/client.lua', '@PolyZone/BoxZone.lua', "client.lua"}
+client_scripts {"config.lua", "client.lua"}
 
 files {"html/libs/*.js", "html/style.css", "html/index.html"}
 
